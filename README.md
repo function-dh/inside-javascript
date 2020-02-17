@@ -4,3 +4,4 @@
 
 ## 공지사항
 1. branch는 develop에서 작업하고 master에 pr해주세요.
+2. 책 소스 추가
