@@ -21,6 +21,6 @@ var student = create_object(person);
 // var student = new F(); person의 속성이 들어간 new F()를 반환 받는다
 
 
+console.log(student.getName());   // zzoon
 student.setName("me");
-console.log(student.getName());
-
+console.log(student.getName());  // me
