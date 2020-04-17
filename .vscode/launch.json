@@ -35,7 +35,7 @@
 			"request": "launch",
 			"name": "node",
 			"program": "${file}",
-			"cwd": "${workspaceRoot}"
+			"cwd": "${workspaceRoot}",
 		}
 	]
 }
