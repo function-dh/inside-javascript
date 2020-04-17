@@ -1,6 +1,6 @@
- var Person = function(arg) { 
+var Person = function(arg) { 
 	var name = arg ? arg : "zzoon" ;
-	
+
 	return {
 		getName : function() {
 			return name;
@@ -9,8 +9,7 @@
 			name = arg;
 		}
 	};
- }
- 
- var me = Person(); /* or var me = new Person(); */
- console.log(me.getName());
- 
+}
+
+var me = Person(); /* or var me = new Person(); */
+console.log(me.getName());
